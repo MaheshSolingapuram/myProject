@@ -1,0 +1,3 @@
+welcome to git sample. 
+Working with git commands.
+Added new features in this file.
