@@ -1,1 +1,2 @@
-welcome to git sample 
+welcome to git sample. 
+Working with git commands.
